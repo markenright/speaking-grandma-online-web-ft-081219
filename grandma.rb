@@ -22,8 +22,9 @@ def speak_to_grandma(word)
     return "NO, NOT SINCE 1938!"
   end
   
-else
-  return 
+  else
+    return "HUH?! SPEAK UP, SONNY!"
+  end
   
   
 end
