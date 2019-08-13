@@ -15,7 +15,7 @@
 
 def speak_to_grandma(word)
   if word == "I LOVE YOU GRANDMA!"
-    return "I LOVE YOU TOO PUMPKIN"
+    return "I LOVE YOU TOO PUMPKIN!"
   end
   
   
